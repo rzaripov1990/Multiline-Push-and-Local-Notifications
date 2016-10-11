@@ -1,4 +1,4 @@
-# Multiline-Push-and-Local-Notifications
+# Multiline Push and Local Notifications
 Multiline Push and Local Notifications [ANDROID]
 
 ## Push Notifications
